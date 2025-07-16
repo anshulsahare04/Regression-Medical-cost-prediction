@@ -1,5 +1,5 @@
 
-# Regression - Insurance Cost Prediction
+# 🏥 Regression - Insurance Cost Prediction
 
 A **Streamlit**-based interactive web application that predicts **individual medical insurance charges** using various regression models. This project demonstrates the end-to-end data science workflow — from EDA and model training to real-time deployment.
 
